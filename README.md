@@ -2,12 +2,12 @@
 
 📁 Estructura del proyecto
 ecommerce/
-├── server.js          ← Backend REST completo
-├── package.json       ← Dependencias (express, uuid)
-├── productos.json     ← Persistencia de productos + stock
-├── ventas.json        ← Persistencia de ventas
+├── server.js          
+├── package.json       
+├── productos.json    
+├── ventas.json        
 └── public/
-    └── index.html     ← Frontend E-commerce completo
+    └── index.html     
 
 🚀 
 1. Instalar dependencias
