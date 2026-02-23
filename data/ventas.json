@@ -1,0 +1,32 @@
+[
+  {
+    "id_venta": "94b0e7d5-0955-496f-877e-fcec1dfde875",
+    "id_usuario": null,
+    "fecha": "2026-02-23T00:12:02.877Z",
+    "items": [
+      {
+        "id_producto": 5,
+        "nombre": "AirPods Max",
+        "cantidad": 1,
+        "precio_unitario": 299.9,
+        "subtotal": 299.9
+      }
+    ],
+    "total": 299.9
+  },
+  {
+    "id_venta": "9d1da310-e3ce-4249-8f71-ca702bc597f1",
+    "id_usuario": null,
+    "fecha": "2026-02-23T00:12:32.783Z",
+    "items": [
+      {
+        "id_producto": 3,
+        "nombre": "iPhone 17 Pro",
+        "cantidad": 1,
+        "precio_unitario": 899.9,
+        "subtotal": 899.9
+      }
+    ],
+    "total": 899.9
+  }
+]

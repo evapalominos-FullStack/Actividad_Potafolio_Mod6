@@ -1,0 +1,72 @@
+[
+  {
+    "id_producto": 1,
+    "nombre": "MacBook Air de 15 pulgadas",
+    "precio": 999.9,
+    "activo": true,
+    "stock": 10
+  },
+  {
+    "id_producto": 2,
+    "nombre": "iPad Air",
+    "precio": 699.9,
+    "activo": true,
+    "stock": 15
+  },
+  {
+    "id_producto": 3,
+    "nombre": "iPhone 17 Pro",
+    "precio": 899.9,
+    "activo": true,
+    "stock": 9
+  },
+  {
+    "id_producto": 4,
+    "nombre": "Watch Ultra 3",
+    "precio": 399.9,
+    "activo": true,
+    "stock": 15
+  },
+  {
+    "id_producto": 5,
+    "nombre": "AirPods Max",
+    "precio": 299.9,
+    "activo": true,
+    "stock": 9
+  },
+  {
+    "id_producto": 6,
+    "nombre": "AirPods Pro 3",
+    "precio": 159.9,
+    "activo": true,
+    "stock": 8
+  },
+  {
+    "id_producto": 7,
+    "nombre": "iMac Chip M4",
+    "precio": 1599.9,
+    "activo": true,
+    "stock": 15
+  },
+  {
+    "id_producto": 8,
+    "nombre": "Mac Pro",
+    "precio": 1299.9,
+    "activo": true,
+    "stock": 20
+  },
+  {
+    "id_producto": 9,
+    "nombre": "Mac mini",
+    "precio": 599.9,
+    "activo": true,
+    "stock": 25
+  },
+  {
+    "id_producto": 10,
+    "nombre": "MacBook Pro",
+    "precio": 699.9,
+    "activo": true,
+    "stock": 20
+  }
+]
